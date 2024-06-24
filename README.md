@@ -3,5 +3,4 @@
 
 
 # Banco de Dado Conceitual
-Exemplo para inserir a imagem do modelo de BD no arquivo readme.md:
-<img src="https://github.com/ryanjuni/Banco-de-Dados/blob/main/Atividade%20de%20Banco%20de%20Dados.drawio.png"/>
+![Atividade de Banco de Dados drawio](https://github.com/ryanjuni/Banco-de-dado/assets/102491606/79dd0f88-1ca6-44f4-ab29-e4f12afc3998)
