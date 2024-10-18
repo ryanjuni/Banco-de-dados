@@ -1,4 +1,4 @@
-# Banco de Dados 
+
 ![Sql_free_vector_icons_designed_by_iconixar-removebg-preview](https://github.com/user-attachments/assets/4068b37d-51b3-4d09-b446-ca0d772bbaf0)
 
 # Banco de Dado Lógico
