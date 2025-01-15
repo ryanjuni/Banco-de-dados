@@ -10,3 +10,6 @@
 
 # Banco de Dado Conceitual
 ![Atividade de Banco de Dados drawio](https://github.com/ryanjuni/Banco-de-dado/assets/102491606/79dd0f88-1ca6-44f4-ab29-e4f12afc3998)
+
+
+# Dependências
